@@ -125,7 +125,7 @@ public class Gui extends javax.swing.JFrame {
         jTextArea1.setText("\n");
         jScrollPane1.setViewportView(jTextArea1);
 
-        jButton2.setText("Abre");
+        jButton2.setText("Abre_1");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
